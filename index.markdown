@@ -16,7 +16,7 @@ See all the projects I have carried out on [this page](/projects.markdown)
 
 #### Technical skills
 
-* **Python**: JupyterLab, TensorFlow, flask, scikit-learn, pandas, etc.
+* **Python**: JupyterLab, Keras, flask, scikit-learn, pandas, etc.
 * **Java**: OOP, multithreading, networking, etc.
 * **WWW Technologies**: HTML, CSS, JS
 * **LaTeX**
