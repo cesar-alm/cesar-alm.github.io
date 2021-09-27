@@ -19,6 +19,7 @@ See all the projects I have carried out on [this page](/projects.markdown)
 * **Python**: JupyterLab, Keras, flask, scikit-learn, pandas, etc.
 * **Java**: OOP, multithreading, networking, etc.
 * **WWW Technologies**: HTML, CSS, JS
+* **C# and Unity**
 * **LaTeX**
 * **Git**
 
