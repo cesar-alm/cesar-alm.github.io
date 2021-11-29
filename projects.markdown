@@ -8,12 +8,13 @@ In this page you will find all the projects I have been working on, alone or wit
 
 # Current
 
-* **starting Oct. 2021**: a collaboration between MINES ParisTech and the [CNSMDP](https://en.wikipedia.org/wiki/Conservatoire_de_Paris) (the Paris Conservatory). Our objective: using VR, help the conservatory enhance their ambisonic sound system (prevent the auditory-visual conflict caused by the sound system).
-* **since Sept. 2021**: a series of numerical projects in a Deep Learning course at MINES ParisTech. [GitHub repo](https://github.com/cesar-alm/deep-learning)
+* **starting Dec. 2021**: a trimester-long project in embedded systems and cyber-physical systems.
 * **since Feb. 2021**: (side-project) I am currently writing a document on Integration and Probabilities (~kind of lectures notes). I decided to write it because I had the impression that the Differential, Integral and Stochastic Calculus course I attented in Fall 2020 did not go deep enough. I work on it from time to time, and eventually I would like it to have a large amount of examples and exercises. [GitHub repo](https://github.com/cesar-alm/math-et-al)
 
 # 2021
 
+* **October-November 2021**: a collaboration between MINES ParisTech and the [CNSMDP](https://en.wikipedia.org/wiki/Conservatoire_de_Paris) (the Paris Conservatory). Our objective: using VR, help the conservatory enhance their ambisonic sound system (prevent the auditory-visual conflict caused by the sound system). In particular, I was in charge of the user studies (data science evaluating the performance of our product). [Poster](/assets/movie_poster.pdf) &#124; [Report](/assets/movie_paper.pdf)
+* **September-November 2021**: a series of numerical projects in a Deep Learning course at MINES ParisTech. [GitHub repo](https://github.com/cesar-alm/deep-learning)
 * **June 2021**: worked on a numerical project in Data Science (Jupyter Notebook and Python): trained classifier models to identify predominant tree species in 30x30m zones. Got an F-Score of 0.922 (top 10% of the students). [GitHub repo](https://github.com/cesar-alm/projet-sdd)
 * **June 2021**: month-long project on nickel-based alloys used for turbine blades. Studied the fabrication process and the microstructure. [Report (poster)](/assets/mpi_poster.pdf)
 * **June 2021**: studied - through a practical work - the influence of a thermomecanical process on a stainless austenitic steel. [Report](/assets/mpi_rapport.pdf)
