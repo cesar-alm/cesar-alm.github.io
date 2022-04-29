@@ -4,31 +4,38 @@ title: Home
 permalink: /
 ---
 
-## Who am I?
+# About
 
-I am a student at [MINES ParisTech](https://www.minesparis.psl.eu/) - [PSL University](https://psl.eu) (France).
-I am preparing its top-ranking Master's Degree in Science & Executive Engineering (exp. grad. May 2023).
-I am interested in Data Science, Machine Learning, Deep Learning, Probabilities and Statistics.
+I am a graduate student at [Mines Paris](https://mines-paristech.eu/), a school of engineering member of the [PSL University](https://psl.eu) (France). I am also a Research Assistant at [MIT](https://www.mit.edu/).
 
-See all the projects I have carried out on [this page](/projects.markdown)
+## At Mines Paris
+At Mines Paris, I prepare its top-ranking Master in Science & Executive Engineering. I study a wide range of subjects, including:
+* Machine learning and applied mathematics
+* Embedded systems
+* Computer Science
+* Economics and sociology
+* Quantum Mechanics
+* ...
 
-## My skills
+## At MIT
+I am a Research Assistant in [Navid Azizan's Lab](https://azizan.mit.edu/). My current research focuses on estimating uncertainty in meta learning contexts. I also work with Ph.D. student Apoorva Sharma (Stanford University).
 
-#### Technical skills
+# More information
 
-* **Python**: JupyterLab, TensorFlow & Keras, flask, scikit-learn, pandas, etc.
-* **Java**: OOP, multithreading, networking, etc.
-* **WWW Technologies**: HTML, CSS, JS
-* **C# and Unity**
-* **LaTeX**
-* **Git**
+* See all the projects I have carried out on [this page](/projects.markdown)
 
-#### Multilingual skills
+# My skills in a nutshell
+
+## Multilingual skills
 
 * **French and Spanish**: mother tongues
-* **English**: proficient
-* **German**: intermediate level
+* **English**: proficient (TOEFL iBT 113/120, Cambridge Proficiency C2)
+* **German**: intermediate level (Deutsches Sprachdiplom I B1)
 
-## Others
+## Technical skills
 
-My favorite book of the moment: *Applied Probability and Statistical Methods*, by George C. Canavos (1984)
+* **Python**: jupyter, TensorFlow & Keras, jax, scikit-learn, etc.
+* **Java**: OOP, multithreading, networking, etc.
+* **WWW Technologies**: HTML, CSS, JS
+* **LaTeX**
+* **Git**

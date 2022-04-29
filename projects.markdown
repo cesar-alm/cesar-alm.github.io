@@ -6,6 +6,8 @@ permalink: /projects/
 
 In this page you will find all the projects I have been working on, alone or with a team. They involve Maths, Computer Science, but also Physics, Economics, etc. Some of them are just side-projects.
 
+**Last updated on Nov 29, 2021**
+
 # Current
 
 * **starting Dec. 2021**: a trimester-long project in embedded systems and cyber-physical systems.
